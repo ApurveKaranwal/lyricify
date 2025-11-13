@@ -1,6 +1,6 @@
 # 🎵 lyricify
 
-A cinematic Python script that brings *Pal Pal* by Arijit Singh to life — line by line, with smooth typewriter animation and emotional pacing right in your terminal.
+A cinematic Python script that brings the song *Pal Pal*  to life — line by line, with smooth typewriter animation and emotional pacing right in your terminal.
 
 ---
 
