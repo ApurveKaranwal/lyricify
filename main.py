@@ -13,7 +13,7 @@ def slow_print(text, delay=0.05):
 def print_title():
     """Show cinematic title with fade effect."""
     os.system('cls' if os.name == 'nt' else 'clear')
-    title = "🎵 P A L P A L — Arijit Singh 🎵"
+    title = "🎵 PalPal Talwiinder 🎵"
     fade = ["", ".", "..", "..."]
     for dots in fade:
         sys.stdout.write(f"\r{title}{dots}")
